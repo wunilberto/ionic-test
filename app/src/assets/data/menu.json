@@ -1,0 +1,43 @@
+[
+  {
+    "icone": "beer-outline",
+    "nome": " Alerta",
+    "link": "/alert"
+  },
+  {
+    "icone": "construct-outline",
+    "nome": " Action Sheet",
+    "link": "/action-sheet"
+  },
+  {
+    "icone": "card",
+    "nome": " Cards",
+    "link": "/cards"
+  },
+  {
+    "icone": "calendar-outline",
+    "nome": " Datas",
+    "link": "/datas"
+  },
+  {
+    "icone": "grid-outline",
+    "nome": " Grids",
+    "link": "/grid"
+  },
+  {
+    "icone": "arrow-forward-circle-outline",
+    "nome": " Inputs new",
+    "link": "/input"
+  },
+  {
+    "icone": "arrow-forward-circle-outline",
+    "nome": " Slider",
+    "link": "/slide"
+  },
+  {
+    "icone": "american-football",
+    "nome": " Toast",
+    "link": "/toast"
+  }
+
+]

@@ -1,0 +1,28 @@
+<app-header titulo="Aba"></app-header>
+
+<ion-content>
+  <ion-tabs>
+    <ion-tab-bar slot="bottom">
+      <ion-tab-button tab="inicio">
+        <ion-icon name="calendar"></ion-icon>
+        <ion-label>inicio</ion-label>
+        <ion-badge>6</ion-badge>
+      </ion-tab-button>
+
+      <ion-tab-button tab="alert">
+        <ion-icon name="information-circle"></ion-icon>
+        <ion-label>Alerta</ion-label>
+      </ion-tab-button>
+    </ion-tab-bar>
+  </ion-tabs>
+
+
+  <ion-button color="blue" expand="full" (click)="presentActionSheet()" >
+    Chamar Modal AS
+  </ion-button>
+</ion-content>
+
+
+
+
+
